@@ -1,7 +1,5 @@
 # Epidemic Simulator
 
-![Epidemic Simulator](link_to_an_image_or_gif)
-
 ## Overview
 
 The Epidemic Simulator is a JavaScript application that simulates the spread of an outbreak based on various social distancing parameters. Inspired by a Washington Post article, this simulator allows users to explore how different factors influence the transmission of a virus within a population.
